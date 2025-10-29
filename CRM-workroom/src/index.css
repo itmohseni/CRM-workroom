@@ -6,10 +6,6 @@ body {
     height: 100%;
 }
 
-menu {
-    flex: 1;
-}
-
 @theme {
     --spacing-1/8: 12.5%;
     --color-primary: #3F8CFF;
